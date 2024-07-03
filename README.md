@@ -1,1 +1,1 @@
-# Java_Tasks_and_Problems_Solved-40-
+This Repository includes over 40 Tasks and Problems solved using Java & IntelliJ
